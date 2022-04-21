@@ -21,9 +21,9 @@ public class MyHW3 {
                 array[i] = 1;
             } else {
                 array[i] = 0;
+                   System.out.print(array[i] + " ");
             }
-            System.out.print(array[i] + " ");
-        }
+      }
         System.out.println();
     }
 
